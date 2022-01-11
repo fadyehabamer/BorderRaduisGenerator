@@ -1,2 +1,3 @@
-# BorderRaduisGenerator
-Make your perfect border raduis 
+<p align="center">
+  <img src="preview.png">
+</p>
